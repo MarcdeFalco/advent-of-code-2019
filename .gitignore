@@ -1,0 +1,12 @@
+input*
+*.txt
+cookie.py
+private.py
+__pycache__/
+_build/
+problem.html
+problem.md
+*.o
+*.cm[iotx]
+*.cmti
+a.out
